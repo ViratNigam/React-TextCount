@@ -1,5 +1,5 @@
 # React-TextCount
-##In the project directory, you can run:
+# In the project directory, you can run:
 
 npm install
 Before Start This Please insatll Node_modules.
