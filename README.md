@@ -1,4 +1,5 @@
 # React-TextCount
+https://viratnigam.github.io/React-TextCount/
 In the project directory, you can run:
 
 npm install
